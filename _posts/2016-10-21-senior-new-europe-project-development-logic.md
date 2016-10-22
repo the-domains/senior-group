@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-22T18:31:34.699Z'
+datePublished: '2016-10-22T18:33:10.333Z'
 sourcePath: _posts/2016-10-21-senior-new-europe-project-development-logic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-22T18:31:29.228Z'
+dateModified: '2016-10-22T18:33:09.828Z'
 title: “Senior New Europe” Project Development Logic.
 publisher: {}
-description: Executive summary
+description: ''
 starred: true
 url: senior-new-europe-project-development-logic/index.html
 _type: Article
@@ -18,7 +18,7 @@ _type: Article
 
 # **"Senior New Europe" Project Development Logic.**
 
-Executive summary
+### Executive summary
 
 Senior Group tends to invest 400 Mln EURO into construction of a new network of live-in aged care facilities in Eastern Europe to meet the demand created by the rapidly expanding population over 65 years old and the lack of modernization of existing residences in the last 25 years rendering them unable to meet that demand.
 
