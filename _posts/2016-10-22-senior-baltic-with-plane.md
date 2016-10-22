@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-22T18:38:52.738Z'
+datePublished: '2016-10-22T18:39:44.555Z'
 sourcePath: _posts/2016-10-22-senior-baltic-with-plane.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=vSR4Mz3du4c'
@@ -20,8 +20,8 @@ author:
     url: 'https://www.youtube.com/user/nkobliakov'
     avatar: {}
 via: {}
-dateModified: '2016-10-22T18:38:47.371Z'
-title: Senior Baltic
+dateModified: '2016-10-22T18:39:43.810Z'
+title: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=vSR4Mz3du4c&feature=applinks'
     type: ios
@@ -59,16 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-description: 'Senior Group plans in Estonia, Latvia, Lithuania'
+publisher: {}
+description: ''
 inLanguage: en
 starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/366627bd-0687-4e92-a939-6406c970afc8.png)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvSR4Mz3du4c%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvSR4Mz3du4c&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvSR4Mz3du4c%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
