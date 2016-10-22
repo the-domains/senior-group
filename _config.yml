@@ -1,0 +1,58 @@
+typography_spectrum: 0.5696536239466197
+color:
+  saturation: 0.6069974221192337
+  brandStrength: 0.5283336756163562
+  rhythmicContrast: 0.4454732675820884
+  brandColors:
+    - '#FFFFFF'
+    - '#695D48'
+    - '#FA7141'
+    - '#128475'
+    - '#6AB5AB'
+  lightness: 0.8085152947519085
+github: true
+layout_spectrum: 0.841820068163244
+analytics:
+  google: UA-45030951-11
+author:
+  name: Nicolai Kobiakov
+  email: nkobliakov@gmail.com
+logo: null
+name: Senior Group
+navigation:
+  - name: “Senior New Europe” Project Development Logic.
+    id: b0d0a460-b124-46ca-833a-ead4bda0ad0f
+    type: content
+  - name: Strategic basis for the “Senior New Europe” project
+    id: 7e25a2a8-ebd0-4335-835e-7c8e94d6446f
+    type: content
+  - name: Parameters of the “Senior New Europe” project.
+    id: 45f12b86-0263-40d0-8a0b-87255b454055
+    type: content
+  - name: 'Facilities, the types of development'
+    id: c64157a5-1753-4cc7-a279-870fb95ccac7
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc57bc6-7d4a-4755-a47e-703a21c1de42.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Senior Group
+content: []
+description: >-
+  We assist seniors and persons with limited mobility in leading full,
+  comfortable lives in our residences
+purpose:
+  - type: external
+    url: >-
+      https://docs.google.com/document/d/1Y1xBJYHFGXJurNYSRm8U0WJRZuNk-prsYsqiwKbP7G8/edit?usp=sharing
+    label: '"Senior Baltic" Dossier'
