@@ -1,4 +1,3 @@
-layout_spectrum: 0.04201026865022976
 typography_spectrum: 0.8622010256439484
 color:
   saturation: 0.5073227832153772
@@ -12,8 +11,10 @@ color:
     - '#6AB5AB'
   lightness: 0.9203910960357563
 github: true
+layout_spectrum: 0.04201026865022976
 analytics:
   google: UA-45030951-11
+  twitter: nvmox
 author:
   name: Nicolai Kobiakov
   email: nkobliakov@gmail.com
