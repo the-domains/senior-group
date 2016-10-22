@@ -4,9 +4,9 @@
         <description><![CDATA[Senior Group]]></description>
         <link>http://senior-group.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Oct 2016 18:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2016 18:38:10 GMT</lastBuildDate>
         <atom:link href="http://senior-group.fr/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Oct 2016 18:37:28 GMT</pubDate>
+        <pubDate>Sat, 22 Oct 2016 18:38:09 GMT</pubDate>
         <item>
             <title><![CDATA[“Senior New Europe” Project Development Logic.]]></title>
             <description><![CDATA[<article><h1>“Senior New Europe” Project Development Logic.</h1><h2>Executive summary</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6a728c-b769-49a4-be99-64dc5bd32684.jpg"></article>]]></description>
@@ -36,18 +36,18 @@
             <pubDate>Sat, 22 Oct 2016 17:01:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Senior Baltic]]></title>
+            <description><![CDATA[<article><h1>Senior Baltic</h1><p>Senior Group plans in Estonia, Latvia, Lithuania</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bd8aefb5176e5288b0b22514c2b99cdc/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FvSR4Mz3du4c%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=vSR4Mz3du4c</link>
+            <guid isPermaLink="false">adfb9695-18a8-47d1-be4d-ccf0121f9a44</guid>
+            <pubDate>Sat, 22 Oct 2016 18:38:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Founders: Kobliakov]]></title>
             <description><![CDATA[<article><h1>Founders: Kobliakov</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38c64d96-cdb8-4f5d-ad89-b70221665aeb.jpg"></article>]]></description>
             <link>http://senior-group.fr/nicolai-kobliakov-or-linkedin/index.html</link>
             <guid isPermaLink="false">1f41bce3-fd7f-4c81-8b9e-ed75daaccdd2</guid>
             <pubDate>Sat, 22 Oct 2016 16:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior Baltic]]></title>
-            <description><![CDATA[<article><h1>Senior Baltic</h1><p>Senior Group plans in Estonia, Latvia, Lithuania</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bd8aefb5176e5288b0b22514c2b99cdc/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FvSR4Mz3du4c%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=vSR4Mz3du4c</link>
-            <guid isPermaLink="false">adfb9695-18a8-47d1-be4d-ccf0121f9a44</guid>
-            <pubDate>Sat, 22 Oct 2016 01:00:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
