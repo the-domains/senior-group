@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-22T22:05:31.302Z'
+datePublished: '2016-10-22T22:05:49.848Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-22T22:05:27.502Z'
+dateModified: '2016-10-22T22:05:49.180Z'
 title: Résidents Profiles Gallery.
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-10-22-residents-profiles-gallery.md
+starred: false
 url: residents-profiles-gallery/index.html
 _type: Article
 
