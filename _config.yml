@@ -17,8 +17,9 @@ analytics:
 author:
   name: Nicolai Kobiakov
   email: nkobliakov@gmail.com
-logo: null
-name: Senior Group
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/867841fa-ff75-4d0e-903e-177d4b632463.png
+name: _
 navigation:
   - name: “Senior New Europe” Project Development Logic.
     id: b0d0a460-b124-46ca-833a-ead4bda0ad0f
