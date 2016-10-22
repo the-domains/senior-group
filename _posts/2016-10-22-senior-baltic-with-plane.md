@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-22T18:46:09.082Z'
+datePublished: '2016-10-22T18:47:18.391Z'
 sourcePath: _posts/2016-10-22-senior-baltic-with-plane.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=vSR4Mz3du4c'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/nkobliakov'
     avatar: {}
 via: {}
-dateModified: '2016-10-22T18:46:07.821Z'
+dateModified: '2016-10-22T18:47:17.410Z'
 title: Senior Baltic
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=vSR4Mz3du4c&feature=applinks'
@@ -67,8 +67,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-<button data-role="cta" style="">Open</button>
-
 # Senior Baltic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/366627bd-0687-4e92-a939-6406c970afc8.png)
 
