@@ -58,3 +58,6 @@ purpose:
     url: >-
       https://docs.google.com/document/d/1Y1xBJYHFGXJurNYSRm8U0WJRZuNk-prsYsqiwKbP7G8/edit?usp=sharing
     label: '"Senior Baltic" Dossier'
+  - type: contact
+    url: 'mailto:kobliakov@senior-group.fr'
+    label: Contact us
