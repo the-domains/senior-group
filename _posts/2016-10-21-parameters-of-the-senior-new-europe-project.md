@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-22T18:37:04.658Z'
+datePublished: '2016-10-23T09:09:06.759Z'
 sourcePath: _posts/2016-10-21-parameters-of-the-senior-new-europe-project.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-22T18:37:03.915Z'
+dateModified: '2016-10-23T09:08:55.825Z'
 title: Parameters of the “Senior New Europe” project.
 publisher: {}
 description: ''
@@ -14,8 +14,9 @@ url: parameters-of-the-senior-new-europe-project/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c723669-358c-4a13-8617-408cffd65912.jpg)
+
 # **Parameters of the "Senior New Europe" project.**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d982c07a8f837a19c9a3ac0cbe9089539e9bf3a.jpg)
 
 ### The geographical scope of the whole project includes 10 countries: Estonia, Latvia, Lithuania, Poland, Czech Rep, Slovakia, Hungary, Romania, Serbia, and Bulgaria
 
