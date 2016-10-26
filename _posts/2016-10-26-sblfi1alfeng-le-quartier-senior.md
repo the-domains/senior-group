@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-26T21:28:48.664Z'
+datePublished: '2016-10-26T21:29:09.371Z'
 sourcePath: _posts/2016-10-26-sblfi1alfeng-le-quartier-senior.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-10-26T21:28:48.106Z'
+dateModified: '2016-10-26T21:29:08.883Z'
 title: ''
 app_links: []
 publisher: {}
