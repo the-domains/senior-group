@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-27T20:01:03.467Z'
+datePublished: '2016-10-27T22:05:55.934Z'
 sourcePath: >-
   _posts/2016-10-27-polish-senior-care-perspectives-some-figures-and-conclusion.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T20:01:02.458Z'
+dateModified: '2016-10-27T21:56:54.703Z'
 title: Polish Senior Care perspectives. Some figures and conclusions.
 publisher: {}
 description: ''
@@ -15,7 +15,7 @@ url: polish-senior-care-perspectives-some-figures-and-conclusion/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4db83bc-270f-4ab2-97a9-7040f86d41d7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb80d50-4c11-4a03-ae7b-e39a223291da.jpg)
 
 # **Polish Senior Care perspectives. Some figures and conclusions.**
 
