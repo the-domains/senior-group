@@ -34,6 +34,9 @@ navigation:
   - name: 'Facilities, the types of development'
     id: c64157a5-1753-4cc7-a279-870fb95ccac7
     type: content
+  - name: 'Founders: Kobliakov'
+    id: 1f41bce3-fd7f-4c81-8b9e-ed75daaccdd2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc57bc6-7d4a-4755-a47e-703a21c1de42.png
 collections:
