@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-22T18:40:47.104Z'
+datePublished: '2016-10-27T22:06:26.506Z'
 sourcePath: _posts/2016-10-22-nicolai-kobliakov-or-linkedin.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-10-22T18:40:42.065Z'
+dateModified: '2016-10-27T22:06:25.999Z'
 title: 'Founders: Kobliakov'
 app_links: []
 publisher:
