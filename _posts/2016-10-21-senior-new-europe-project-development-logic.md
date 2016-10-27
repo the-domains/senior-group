@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-22T18:33:10.333Z'
+datePublished: '2016-10-27T22:07:01.658Z'
 sourcePath: _posts/2016-10-21-senior-new-europe-project-development-logic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-22T18:33:09.828Z'
+dateModified: '2016-10-27T22:07:01.015Z'
 title: “Senior New Europe” Project Development Logic.
 publisher: {}
 description: ''
