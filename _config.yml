@@ -40,6 +40,9 @@ navigation:
   - name: Polish Senior Care perspectives. Some figures and conclusions.
     id: 96d4e630-140b-47e7-a1f1-73a80ca38912
     type: content
+  - name: Le Quartier Senior.
+    id: 0a61265b-ffe4-4225-814c-a0a028056102
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc57bc6-7d4a-4755-a47e-703a21c1de42.png
 collections:
