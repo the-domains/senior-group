@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-27T22:07:13.012Z'
+datePublished: '2016-10-29T20:45:43.245Z'
 sourcePath: _posts/2016-10-26-sblfi1alfeng-le-quartier-senior.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-10-27T22:07:12.519Z'
+dateModified: '2016-10-29T20:45:42.996Z'
 title: Le Quartier Senior.
 app_links: []
 publisher: {}
