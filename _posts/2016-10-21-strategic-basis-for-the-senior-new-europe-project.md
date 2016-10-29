@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-22T18:37:27.970Z'
+datePublished: '2016-10-29T20:45:39.315Z'
 sourcePath: _posts/2016-10-21-strategic-basis-for-the-senior-new-europe-project.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-22T18:37:27.153Z'
+dateModified: '2016-10-29T20:45:38.899Z'
 title: Strategic basis for the “Senior New Europe” project
 publisher: {}
 description: ''
