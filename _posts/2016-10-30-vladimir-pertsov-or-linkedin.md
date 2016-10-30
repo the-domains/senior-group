@@ -12,12 +12,12 @@ inLanguage: ru
 app_links: []
 isBasedOnUrl: 'https://ru.linkedin.com/in/vladimir-pertsov-3b728610'
 title: Vladimir Pertsov | LinkedIn
-datePublished: '2016-10-30T21:58:21.165Z'
-dateModified: '2016-10-30T21:58:17.966Z'
+datePublished: '2016-10-30T21:58:34.149Z'
+dateModified: '2016-10-30T21:58:33.768Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-30-vladimir-pertsov-or-linkedin.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
