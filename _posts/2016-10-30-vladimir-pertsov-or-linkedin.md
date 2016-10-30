@@ -1,25 +1,27 @@
 ---
-author: []
+datePublished: '2016-10-30T21:59:09.798Z'
+sourcePath: _posts/2016-10-30-vladimir-pertsov-or-linkedin.md
+inFeed: true
+isBasedOnUrl: 'https://ru.linkedin.com/in/vladimir-pertsov-3b728610'
+keywords: []
 related: []
+author: []
+via: {}
+dateModified: '2016-10-30T21:59:09.178Z'
+title: 'Founders: Pertsov'
+app_links: []
 publisher:
   url: 'http://linkedin.com'
   name: LinkedIn
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
   domain: ru.linkedin.com
-keywords: []
 description: Добавьте сведения об этом профиле LinkedIn на другие веб-сайты
 inLanguage: ru
-app_links: []
-isBasedOnUrl: 'https://ru.linkedin.com/in/vladimir-pertsov-3b728610'
-title: Vladimir Pertsov | LinkedIn
-datePublished: '2016-10-30T21:58:34.149Z'
-dateModified: '2016-10-30T21:58:33.768Z'
-via: {}
-inFeed: true
-sourcePath: _posts/2016-10-30-vladimir-pertsov-or-linkedin.md
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Vladimir Pertsov | LinkedIn</h1><p>Добавьте сведения об этом профиле LinkedIn на другие веб-сайты</p><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/034/37c/2d62ffa.jpg" /></article>
+# Founders: Pertsov
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8cc609251c9eb728da5ab0adbd8c08eb/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_200_200%2Fp%2F1%2F000%2F034%2F37c%2F2d62ffa.jpg" /><h1>Vladimir Pertsov | LinkedIn</h1><p>Добавьте сведения об этом профиле LinkedIn на другие веб-сайты</p></article>
