@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-04T18:31:28.413Z'
+datePublished: '2016-11-04T18:31:31.133Z'
 sourcePath: _posts/2016-10-30-vladimir-pertsov-or-linkedin.md
 inFeed: true
 isBasedOnUrl: 'https://ru.linkedin.com/in/vladimir-pertsov-3b728610'
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-04T18:31:22.074Z'
+dateModified: '2016-11-04T18:31:30.367Z'
 title: 'Founders: Pertsov'
 app_links: []
 publisher: {}
